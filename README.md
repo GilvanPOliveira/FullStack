@@ -12,14 +12,14 @@ Projeto de conclusão, da missão prática - nível 2
 
 Projeto de conclusão, da missão prática - nível 3: parte 01
 - RPG0010 - Meu primeiro framework
-- Projeto em execução: 
+- Projeto em execução: https://full-stack-js-react.vercel.app/
 
 Projeto de conclusão, da missão prática - nível 3: parte 02
 - RPG0010 - Meu primeiro framework
 
 Projeto de conclusão, da missão prática - nível 4
 - RPG0011 - Conhecendo outro framework
-- Projeto em execução: https://full-stack-ts-angular.vercel.app
+- Projeto em execução: https://full-stack-ts-angular.vercel.app/
 
 Projeto de conclusão, da missão prática - nível 5
 - RPG0012 - Vamos colocar o framework para acessar um banco!
