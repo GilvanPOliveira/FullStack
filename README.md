@@ -1,7 +1,5 @@
 # Desenvolvimento em Full Stack
 
--------------------------------------------------------------------
-
 # Mundo 02
 
 Projeto para concluir a missão prática - nível 1
@@ -28,8 +26,6 @@ Projeto de conclusão, da missão prática - nível 5
 Projeto Front End Integrador
 - Projeto Front-end Com Framework para Desktop 
 - Projeto em execução: https://full-stack-jsx-vite-one-quiz.vercel.app/
-
--------------------------------------------------------------------
 
 # Mundo 01
 
