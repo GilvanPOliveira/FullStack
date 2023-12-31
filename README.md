@@ -27,7 +27,7 @@ Projeto de conclusão, da missão prática - nível 5
 ## Missão Certificação
 Projeto Front End Integrador
 - Projeto Front-end Com Framework para Desktop 
-- Projeto em execução :
+- Projeto em execução: https://full-stack-jsx-vite-one-quiz.vercel.app/
 
 -------------------------------------------------------------------
 
