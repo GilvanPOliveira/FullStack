@@ -1,0 +1,28 @@
+/* Botão inicial */
+#welcome button {
+  cursor: pointer;
+  background: linear-gradient(
+    90deg,
+    rgba(132, 53, 222, 1) 0%,
+    rgba(184, 84, 232, 1) 100%
+  );
+  border-radius: 50%;
+  border: none;
+}
+
+/* Botão inicial selecionado */
+#welcome button:hover {
+  background: linear-gradient(
+    90deg,
+    rgba(184, 84, 232, 1) 0%,
+    rgba(132, 53, 222, 1) 100%
+  );
+}
+
+/* Texto de dentro do botão */
+#home {
+  padding: 4%;
+  font-size: 2rem;
+  color: #fff;
+  margin-top: 5px;
+}

@@ -1,0 +1,24 @@
+/* Reset das margens */
+* {
+  padding: 0;
+  margin: 0;
+}
+
+/* Centralizar */
+.App {
+  height: 80vh;
+  width: 100wh;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  font-family: Poppins;
+  color: #2F0A4D;
+}
+
+/* Backgorund */
+body, html {
+  background-color: #F7F2FF;
+  background-image: url('img/background.svg');
+}
