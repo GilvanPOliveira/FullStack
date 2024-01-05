@@ -2,7 +2,7 @@
 
 ## Resolução de exercícios da plataforma Beecrowd
 
-## Perfil: ![Perfil_Beecrowd](https://www.beecrowd.com.br/judge/pt/profile/791065)
+## Perfil: [Perfil_Beecrowd](https://www.beecrowd.com.br/judge/pt/profile/791065)
 
 ### Exercícios:
 
