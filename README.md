@@ -21,7 +21,7 @@ Projeto de conclusão, da missão prática - nível 3: parte 02
 - Projeto feito inicialmente em JavaScript e ReactJs e convertido para NextJs e Typescript
 
 Projeto de conclusão, da missão prática - nível 4
-- RPG0011 - Conhecendo outro framework
+- RPG0011 - Conhecendo outro framework (TypeScript e Angular)
 - Projeto em execução: https://full-stack-ts-angular.vercel.app/
 
 Projeto de conclusão, da missão prática - nível 5
