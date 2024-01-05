@@ -18,6 +18,7 @@ Projeto de conclusão, da missão prática - nível 3: parte 01
 
 Projeto de conclusão, da missão prática - nível 3: parte 02
 - RPG0010 - Meu primeiro framework (TypeScript e NextJs)
+- Projeto feito inicialmente em JavaScript e ReactJs e convertido para NextJs e Typescript
 
 Projeto de conclusão, da missão prática - nível 4
 - RPG0011 - Conhecendo outro framework
