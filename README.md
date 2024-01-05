@@ -39,3 +39,5 @@ Projeto Front End Integrador
 
 Treinando Python:
 - Resolução de exercícios da plataforma Beecrowd
+- Perfil do BeeCrwod: [GilvanPOliveira](https://www.beecrowd.com.br/judge/pt/profile/791065)
+
