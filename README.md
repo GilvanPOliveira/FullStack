@@ -10,7 +10,7 @@ Projeto para concluir a missão prática - nível 1
   
 Projeto de conclusão, da missão prática - nível 2
 - RPG0009 - Descobrindo o Java Script (JavaScript e VueJs)
-- Projeto em execução: https://full-stack-projeto-vuejs.netlify.app/
+- Projeto em execução: https://full-stack-projeto-vue.netlify.app/
 
 Projeto de conclusão, da missão prática - nível 3: parte 01
 - RPG0010 - Meu primeiro framework (JavaScript e ReactJs)
