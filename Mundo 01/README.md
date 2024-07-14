@@ -1,8 +1,10 @@
-# Treinando Python:
+# Mundo 01
 
-## Resolução de exercícios da plataforma Beecrowd
+## Treinando Python:
 
 ## Perfil no BeeCrowd: [GilvanPOliveira](https://www.beecrowd.com.br/judge/pt/profile/791065)
+
+### Resolução de exercícios da plataforma Beecrowd
 
 ### Exercícios:
 
