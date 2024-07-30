@@ -10,14 +10,16 @@ Projeto de conclusão, da missão prática - nível 2
 
 Projeto de conclusão, da missão prática - nível 3: parte 01
 - RPG0010 - Meu primeiro framework (JavaScript e ReactJs)
-- Projeto em execução: https://full-stack-projeto-react.vercel.app/
+- Projeto em execução: 
 
 Projeto de conclusão, da missão prática - nível 3: parte 02
 - RPG0010 - Meu primeiro framework (TypeScript e NextJs)
 - Projeto feito inicialmente em JavaScript e ReactJs e convertido para NextJs e Typescript
+- Projeto em execução: https://full-stack-projetos-nextjs.netlify.app/
 
 Projeto de conclusão, da missão prática - nível 4
 - RPG0011 - Conhecendo outro framework (TypeScript e Angular)
+- Projeto feito inicialmente em JavaScript e ReactJs e convertido para Angular e Typescript
 - Projeto em execução: https://full-stack-projeto-angular.vercel.app/lista
 
 Projeto de conclusão, da missão prática - nível 5
