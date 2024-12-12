@@ -1,0 +1,90 @@
+/* Estilos globais */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #c3fc71;
+  color: #333;
+}
+main {
+  text-align: center;
+  max-height: calc(100vh - 100px);
+  overflow-y: auto;
+}
+
+.navbar-nav .nav-item.active .nav-link {
+  color: #fff;
+  /* Cor do texto na guia ativa */
+  padding: 8px;
+}
+
+/* Menu de Navegação */
+header {
+  display: flex;
+  height: 60px;
+  background-color: #259b06;
+  color: #333;
+}
+
+/* Logo */
+.logo {
+  width: 50px;
+  height: 50px;
+}
+
+/* Texto Central */
+.slogan {
+  /* Centralizar o Texto */
+  max-width: 768px;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  right: 0;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+}
+.slogan a {
+  text-decoration: none;
+  color: #fff;
+  text-shadow: #333;
+}
+.intro {
+  /* Div Secundaria */
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+}
+
+/* Rodapé */
+.rodape {
+  background-color: #259b06;
+  color: #fff;
+  height: 25px;
+  /* fixar e centralizar o texto no rodapé */
+  bottom: 0;
+  left: 0;
+  right: 0;
+  text-align: center;
+  position: fixed;
+}
+
+h1 {
+  margin-top: 30px;
+  text-align: left;
+}
+
+
+.container {
+  text-align: left;
+  margin-left: 0;
+}
+
+@media (max-width: 450px) {
+    header {
+        display: flex;
+        justify-content: center;
+    }
+}

@@ -1,0 +1,79 @@
+/* Retângulo Padronizado */
+#categoria {
+  width: 45rem;
+  height: 30rem; 
+  border-radius: 3rem;
+  margin-bottom: 1.2rem;
+  border: 1px solid rgba(255, 255, 255, 0.42);
+  background: rgba(237, 236, 255, 0.09);
+  box-shadow: 11px 12px 23px 0px rgba(0, 0, 0, 0.19);
+  backdrop-filter: blur(8px);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around
+} 
+/* 1Q título */
+#categoria h1 {
+  color: #2F0A4D;
+  font-family: Ahsing;
+  font-size: 4rem;
+  font-weight: 400;
+  display: flex;
+  justify-content: center;
+}
+/* Escolha um tema: */
+#categoria h2 {
+  color: #2F0A4D;
+  font-family: LaRosa;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: normal;
+  display: flex;
+  left: 0;
+  margin-left: 30px;
+}
+/* Botão Categoria */
+#categoria button {
+  width: 15rem;
+  height: 5rem;
+  border-radius: 2rem;
+  border: 1px solid rgba(0, 0, 0, 0.42);
+  background: rgba(255, 255, 255, 0.73);
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) inset;
+  font-family: Poppins;
+  font-size: 1.2rem;
+  margin-bottom: 20px;
+}
+/* Botão Categoria selecionado */
+#categoria button:hover {
+  cursor: pointer;
+  width: 15rem;
+  height: 5rem;
+  border-radius: 2rem;
+  border: 1px solid rgba(0, 0, 0, 0.42);
+  background: linear-gradient(
+    90deg,
+    rgba(184, 84, 232, 1) 0%,
+    rgba(132, 53, 222, 1) 100%
+  );
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) inset;
+  color: #FFF;
+  font-family: Poppins;
+  font-size: 1.2rem;
+  margin-bottom: 20px;
+}
+/* Quadro de disciplinas */
+#disciplinas {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  
+}
+/* Organizar os botões das disciplinas */
+.btn_disciplinas{
+  flex: 0 0 45%;
+  margin: 0.5rem; 
+  box-sizing: border-box;
+}
+
+

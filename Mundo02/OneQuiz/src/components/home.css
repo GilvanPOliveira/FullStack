@@ -1,0 +1,14 @@
+/* Título */
+#welcome h2 {
+  color: #2F0A4D;
+  font-family: LaRosa;
+  font-size: 2.5rem;
+  font-weight: 400;
+}
+/* Empresa */
+#welcome p {
+  color: #2F0A4D;
+  font-family: Ahsing;
+  font-size: 8rem;
+  margin-bottom: 45px;
+}
