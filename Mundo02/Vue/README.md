@@ -117,7 +117,7 @@ A partir dos objetivos listados abaixo, no final do projeto, você terá experim
 
   <br>
 
-- Deploy: https://mundo02-vue.vercel.app/
+- [Acessar Deploy](https://mundo02-vue.vercel.app/)
 
  <br>
   
