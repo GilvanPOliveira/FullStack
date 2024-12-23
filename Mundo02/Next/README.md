@@ -104,7 +104,7 @@ A partir dos objetivos listados abaixo, no final do projeto, você terá criado 
 
   <br>
 
-- Deploy: https://mundo02-nextjs.vercel.app/
+- [Acessar Deploy](https://mundo02-nextjs.vercel.app/)
   
  <br>
   
