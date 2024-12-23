@@ -1,7 +1,3 @@
-<p float="left">
- <img src="https://i.imgur.com/v95orpk.png" width="100%" />
-</p>
-
 # Mundo 04 - Nível 02: Microatividades
 
 ## Microatividade 1: Preparação do ambiente
@@ -45,7 +41,10 @@ direita apresenta o resultado do código apresentado acima.
 
 ## Execução do App:
 
+https://github.com/user-attachments/assets/a3ab5f79-b1a0-4e1a-b077-e723c589496a
 
-https://github.com/user-attachments/assets/ccbd6f63-7d2f-412c-bb14-d5d22d3f5591
+<br>
+  
+[<- Retornar ao Mundo04](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo04)
 
 
