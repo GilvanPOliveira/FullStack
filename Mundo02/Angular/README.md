@@ -99,7 +99,7 @@ Execute com o comando ng serve, e acessar o endereço http://localhost:4200/ atr
   
   <br>
 
-<a href="https://mundo02-angular.vercel.app/lista" target="_blank" style="text-decoration: none; padding: 10px 20px; background-color: #007bff; color: white; border-radius: 5px;">Acessar Deploy</a>
+<a href="https://mundo02-angular.vercel.app/lista" target="_blank">Acessar Deploy</a>
 
  <br>
  
