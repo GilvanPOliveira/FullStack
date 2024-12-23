@@ -68,13 +68,13 @@ Execute com o comando ng serve, e acessar o endereço http://localhost:4200/ atr
 
   - Abra o projeto livros-angular no ambiente do Visual Studio Code;
   - Configure a biblioteca padrão de formulários, adicionando FormsModule ao vetor imports, presente na anotação NgModule da classe AppModule, definida no arquivo app.module.ts;
-  - Configure o roteamento, no arquivo app-routing.module.ts, acrescentando no vetor routes as rotas "lista", apontando        para LivroListaComponent, e "dados", atribuída a LivroDadosComponent, além da rota padrão apontando para "lista";
+  - Configure o roteamento, no arquivo app-routing.module.ts, acrescentando no vetor routes as rotas "lista", apontando para LivroListaComponent, e "dados", atribuída a LivroDadosComponent, além da rota padrão apontando para "lista";
   - Modifique o template de AppComponent no arquivo app.component.html de acordo com as seguintes instruções:
       - a) Apagar o conteúdo atual do arquivo;
       - b) Definir o menu de navegação, com tag nav, formatado pelo BootStrap, e utilizar âncoras com diretiva routerLink, para acesso às rotas;
       - c) Acrescentar um seletor router-outlet após o menu.
 
-  - Implemente o código da classe LivroDadosComponent, definida no arquivo livro-dados.component.ts, de acordo com as          instruções apresentadas a seguir:
+  - Implemente o código da classe LivroDadosComponent, definida no arquivo livro-dados.component.ts, de acordo com as instruções apresentadas a seguir:
       - a) Definir o atributo público livro, do tipo Livro, instanciado via construtor padrão da classe Livro;
       - b) Definir o atributo público autoresForm, do tipo texto, inicializado vazio;
       - c) Definir o atributo público editoras, do tipo Array<Editora>, inicializado com um vetor vazio;
@@ -99,7 +99,7 @@ Execute com o comando ng serve, e acessar o endereço http://localhost:4200/ atr
   
   <br>
 
-- Deploy: https://mundo02-angular.vercel.app/lista
+- [Deploy](https://mundo02-angular.vercel.app/lista)
  
  <br>
  
