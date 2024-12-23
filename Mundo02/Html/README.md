@@ -86,7 +86,7 @@ Implementação de um site voltado para o fornecimento de receitas culinárias, 
   
   <br>
 
-- Deploy: https://mundo02-html.vercel.app/
+- [Acessar Deploy](https://mundo02-html.vercel.app/)
   
  <br>
  
