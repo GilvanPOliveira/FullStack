@@ -1,0 +1,13 @@
+touch src/_redirects
+
+This file will contain the rule below. It indicates that all requests to the server should be redirected to index.html. We also add a HTTP status code option at the end to indicate that these redirects should return a 200 status. By default, a 301 status is returned.
+
+/*  /index.html 200
+
+The last thing we have to do is add the below option in our angular.json und er projects > {your_project_name} > architect > options > assets. Include it in the assets array:
+
+{
+  "glob": "_redirects",
+  "input": "src",
+  "output": "/"
+}
