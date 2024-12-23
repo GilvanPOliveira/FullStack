@@ -1,7 +1,3 @@
-<p float="left">
- <img src="https://i.imgur.com/v95orpk.png" width="100%" />
-</p>
-
 # Mundo 04 - Nível 01: Microatividades
 
 ## Microatividade 1: Configurar o ambiente de desenvolvimento React Native
@@ -38,6 +34,11 @@ Nesta atividade, você aprenderá a incorporar imagens em um aplicativo React Na
 
 ## Execução do App:
 
-https://github.com/user-attachments/assets/961b6570-a9e9-40a1-9f4a-914a782748b6
+https://github.com/user-attachments/assets/f03b9165-fd28-4689-9c96-a631b15635d8
+
+<br>
+  
+[<- Retornar ao Mundo04](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo04)
+
 
 
