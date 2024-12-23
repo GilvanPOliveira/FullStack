@@ -1,5 +1,9 @@
 # Nível 02 - RPG0024  - Posso criar um App de outra forma
 
+Essa plataforma permitirá que os clientes compartilhem avaliações e comentários sobre suas experiências de viagem. Além disso, a Agência de viagens utilizará widgets interativos do Flutter para exibir as avaliações dos clientes e interagir com eles de forma envolvente,
+compartilhando suas opiniões e proporcionando uma experiência interativa e informativa aos usuários do site. A imagem a seguir ilustra um
+exemplo de aplicativo desenvolvido. Adapte os códigos apresentados para que você possa criar a sua solução.
+
 ## Contextualização
 
 A "Explore Mundo", uma Agência de Viagens, está em busca de melhorias para tornar seu aplicativo mais atrativo e funcional para os clientes. O objetivo é proporcionar uma experiência em que os usuários possam explorar destinos, consultar pacotes de viagens, efetuar reservas, entrar em contato com a equipe e obter informações detalhadas sobre a localização e as avaliações de estrelas para cada destino.
@@ -340,5 +344,9 @@ Dentro da coluna, temos dois elementos de texto, onde o primeiro é exibido em n
 
 ## Execução do App:
 
+https://github.com/user-attachments/assets/c4af697d-079d-4b84-9a44-8ca5ba5b7625
 
+<br>
+  
+[<- Retornar ao Mundo04](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo04)
 
