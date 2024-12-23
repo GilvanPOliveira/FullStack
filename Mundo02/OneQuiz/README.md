@@ -43,7 +43,7 @@ rodada;
   
   <br>
 
-- Deploy: https://mundo02-one-quiz.vercel.app/
+- [Acessar Deploy](https://mundo02-one-quiz.vercel.app/)
   
  <br>
   
