@@ -103,5 +103,9 @@ A partir dos objetivos listados abaixo, no final do projeto, você terá criado 
 - Verifique os resultados obtidos através de um navegador.
 
   <br>
+
+- Deploy: https://mundo02-nextjs.vercel.app/
+  
+ <br>
   
 [<- Retornar ao Mundo02](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo02)

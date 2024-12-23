@@ -96,10 +96,14 @@ Execute com o comando ng serve, e acessar o endereço http://localhost:4200/ atr
 - Execute com o comando ng serve, e acesse o endereço http://localhost:4200/ através de um navegador;
     - a) Teste a navegação do sistema, a partir do menu da parte superior;
     - b) Teste a inclusão de livros e as restrições definidas via HTML.
+  
+  <br>
 
-
-
-
+- Deploy: https://mundo02-angular.vercel.app/lista
+ 
+ <br>
+ 
+[<- Retornar ao Mundo02](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo02)
 
 
 

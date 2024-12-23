@@ -42,6 +42,11 @@ rodada;
     - f) Categorias para Perguntas: Organizar as perguntas em categorias temáticas para diversificar o jogo.
   
   <br>
+
+- Deploy: https://mundo02-one-quiz.vercel.app/
+  
+ <br>
   
 [<- Retornar ao Mundo02](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo02)
+
 

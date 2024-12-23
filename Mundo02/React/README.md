@@ -76,5 +76,9 @@ A partir dos objetivos listados abaixo, no final do projeto, você terá criado 
     - i) Relacionar o evento onSubmit, do formulário, ao método incluir, além de adicionar um botão de submissão ao final;
   
   <br>
+
+- Deploy: https://mundo02-react.vercel.app/
+  
+ <br>
   
 [<- Retornar ao Mundo02](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo02)

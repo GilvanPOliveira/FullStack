@@ -85,7 +85,11 @@ Implementação de um site voltado para o fornecimento de receitas culinárias, 
     - d) Separar ingredientes e preparo com um elemento "hr";
   
   <br>
+
+- Deploy: https://mundo02-html.vercel.app/
   
+ <br>
+ 
 [<- Retornar ao Mundo02](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo02)
 
 
