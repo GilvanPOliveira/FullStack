@@ -6,7 +6,7 @@ O Mundo05 reúne soluções para diversos problemas de programação relacionado
 
 ## 📖 Conteúdo estudado:
 
-[Nível 01]() - RPG0031 - Vamos gerenciar um projeto
+[Nível 01](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo05/gerenciarProjeto) - RPG0031 - Vamos gerenciar um projeto
 
 [Nível 02]() - RPG0032 - Empregando métodos ágeis
 
@@ -18,7 +18,7 @@ O Mundo05 reúne soluções para diversos problemas de programação relacionado
 
 ## 🚀 Estrutura do Mundo05
 
-[Nível 01]() - Gerenciar Projeto;
+[Nível 01](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo05/gerenciarProjeto) - Gerenciar Projeto;
 
 [Nível 02]() - ;
 
@@ -30,7 +30,7 @@ O Mundo05 reúne soluções para diversos problemas de programação relacionado
  
 ## 🛠 Tecnologias Utilizadas
 
-[![My Skills](https://skillicons.dev/icons?i=html,css&perline=10)](https://github.com/GilvanPOliveira)
+[![My Skills](https://skillicons.dev/icons?i=vscode&perline=10)](https://github.com/GilvanPOliveira)
 
 
 ## 📬 Contato
