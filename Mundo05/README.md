@@ -10,7 +10,7 @@ O Mundo05 reúne soluções para diversos problemas de programação relacionado
 
 [Nível 02](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo05/metodosAgeis) - RPG0032 - Empregando métodos ágeis
 
-[Nível 03]() - RPG0033 - Tratando a imensidão dos dados
+[Nível 03](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo05/tratandoDados) - RPG0033 - Tratando a imensidão dos dados
 
 [Nível 04]() - RPG0034 - Dando inteligência ao software
 
@@ -22,7 +22,7 @@ O Mundo05 reúne soluções para diversos problemas de programação relacionado
 
 [Nível 02](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo05/metodosAgeis) - Empregando métodos ágeis;
 
-[Nível 03]() - ;
+[Nível 03](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo05/tratandoDados) - Tratando a imensidão dos dados;
 
 [Nível 04]() - ;
 
