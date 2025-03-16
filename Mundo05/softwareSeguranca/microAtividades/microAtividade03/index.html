@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="/style.css">
+  <meta name="description" content="Autenticação com JWT">
+  <title>Autenticação com JWT</title>
+</head>
+
+<body>
+  <div class="container">
+    <h1>Autenticação com JWT</h1>
+    <div id="message" class="message"></div>
+    <form id="loginForm">
+      <h2>Login</h2>
+      <label for="username">Usuário:</label>
+      <input type="text" id="username" name="username" required>
+      <label for="password">Senha:</label>
+      <input type="password" id="password" name="password" required>
+      <button type="submit">Entrar</button>
+    </form>
+
+    <section id="restrictedSection">
+      <h2>Acesso Restrito</h2>
+      <button id="actionButton">Acessar Área Restrita</button>
+      <button id="logoutButton">Logoff</button>
+    </section>
+  </div>
+
+  <script src="/script.js"></script>
+</body>
+
+</html>
+
+
+
+
+
+

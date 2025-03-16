@@ -1,0 +1,82 @@
+body {
+  font-family: "Menlo", "Monaco", "Consolas", monospace;
+  margin: 0;
+  padding: 0;
+  background: #ddd;
+  font-size: 14px;
+}
+
+.container {
+  max-width: 500px;
+  width: 100%;
+  padding: 1rem;
+  background: #fff;
+  border-radius: 6px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+input, button, select {
+  padding: 6px;
+  margin: 4px 0;
+  width: 100%;
+  box-sizing: border-box;
+  font-size: 0.9rem;
+}
+
+button {
+  cursor: pointer;
+  background: #666;
+  border: none;
+  color: #fff;
+  font-size: 0.9rem;
+  border-radius: 4px;
+}
+
+button:hover {
+  background: #333;
+}
+
+.message {
+  padding: 8px;
+  margin: 8px 0;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  display: none;
+  font-size: 0.9rem;
+}
+
+.message.success {
+  background: #fff;
+  border-color: #ccc;
+  color: #155724;
+}
+
+.message.error {
+  background: #fff;
+  border-color: #ccc;
+  color: #721c24;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 8px;
+  font-size: 0.9rem;
+}
+
+table, th, td {
+  border: 1px solid #ddd;
+}
+
+th, td {
+  padding: 6px;
+  text-align: left;
+}
+
+th {
+  background: #fff;
+}

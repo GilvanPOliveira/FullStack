@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Testar API de Software Seguro">
+  <title>Testar API</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Testar API de Software Seguro</h1>
+    <div class="message" id="message"></div>
+    
+    <h2>Login</h2>
+    <form id="loginForm">
+      <label for="username">Usuário:</label>
+      <input type="text" id="username" name="username" required>
+      <label for="password">Senha:</label>
+      <input type="password" id="password" name="password" required>
+      <button type="submit">Entrar</button>
+    </form>
+    
+    <hr>
+    
+    <h2>Endpoints Protegidos</h2>
+    <button id="btnGetUser">Obter dados do usuário</button>
+    <button id="btnGetUsers">Obter todos os usuários (admin)</button>
+    
+    <h2>Consultar Contrato (admin)</h2>
+    <label for="empresaSelect">Selecione a Empresa:</label>
+    <select id="empresaSelect">
+      <option value="">-- Selecione uma empresa --</option>
+    </select>
+    
+    <label for="dataSelect">Selecione a Data de Início:</label>
+    <select id="dataSelect">
+      <option value="">-- Selecione uma data --</option>
+    </select>
+    
+    <button id="btnGetContracts">Consultar Contrato</button>
+    
+    <hr>
+    <button id="btnLogout">Logoff</button>
+  </div>
+  
+  <script src="/script.js"></script>
+</body>
+</html>
