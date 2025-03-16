@@ -1,0 +1,186 @@
+/* Retângulo Padronizado */
+#questoes {
+  width: 45rem;
+  height: 30rem; 
+  border-radius: 3rem;
+  border: 1px solid rgba(255, 255, 255, 0.42);
+  background: rgba(237, 236, 255, 0.09);
+  box-shadow: 11px 12px 23px 0px rgba(0, 0, 0, 0.19);
+  backdrop-filter: blur(8px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: fixed;
+}
+/* Organizar topo da página */
+#titulo {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+} 
+/* Titulo */
+#titulo h1 {
+  cursor: pointer;
+  color: #2F0A4D;
+  font-family: Ahsing;
+  font-size: 4rem;
+  font-weight: 400;
+  margin-top: 15px;
+  margin-bottom: 30px;
+}
+/* Quantidade de perguntas e Tempo */
+#titulo p {
+  cursor: pointer;
+  text-align: center;
+  font-family: LaRosa;
+  font-size: 1.6rem;
+  font-weight: 400;
+  width: 10rem;
+  height: 2.2rem;
+  border-radius: 1.6rem;
+  background: rgba(255, 255, 255, 0.73);
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+/* Perguntas */
+#questoes h2 {
+  color: #2F0A4D;
+  font-family: LaRosa;
+  font-size: 1.5rem;
+  font-weight: 400;
+  display: flex;
+  left: 0;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-bottom: 15px;
+  text-align: justify;
+}
+/* Botões de navegações */
+#questoes button {
+  cursor: pointer;
+  width: 15rem;
+  height: 3rem;
+  border-radius: 2rem;
+  border: 1px solid rgba(0, 0, 0, 0.42);
+  background: rgba(255, 255, 255, 0.73);
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) inset;
+  font-family: Poppins;
+  font-size: 1.2rem;
+}
+/* Botões de navegações selecionados */
+#questoes button:hover {
+  cursor: pointer;
+  width: 15rem; 
+  height: 3rem;
+  border-radius: 2rem;
+  border: 1px solid rgba(0, 0, 0, 0.42);
+  background: linear-gradient(
+    90deg,
+    rgba(184, 84, 232, 1) 0%,
+    rgba(132, 53, 222, 1) 100%
+  );
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) inset;
+  color: #FFF;
+  font-family: Poppins;
+  font-size: 1.2rem;
+}
+/* Quadro de navegacao */
+#navegacao {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-bottom: 15px;
+}
+/* Organizar os botões das navegacao */
+.btn_navegacao{
+  flex: 0 0 45%;
+  margin: 0.5rem; 
+  box-sizing: border-box;
+}
+/* Alternativas */
+#respostas{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+}
+
+#box {
+  flex: 1;
+  display: flex;
+  flex-direction: wrap;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+#padrao {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.animo {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 50px;
+  position: relative;
+  margin-bottom: 38rem;
+  width: 9rem;
+  height: 2.2rem;
+  border-radius: 2rem;
+  border: 1px solid rgba(0, 0, 0, 0.42);
+  background: rgba(255, 255, 255, 0.73);
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  font-family: Poppins;
+  font-size: 1.2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.dica {
+  display: flex;
+  flex-wrap: wrap;
+  position: relative;
+  margin-top: 44rem;
+  width: 40rem;
+  height: 9rem;
+  border-radius: 2rem;
+  border: 1px solid rgba(0, 0, 0, 0.42);
+  background: rgba(255, 255, 255, 0.73);
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) inset;
+  font-family: Poppins;
+  font-size: 1.2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #2F0A4D;
+  font-family: LaRosa;
+  text-align: justify;
+  padding: 20px;
+}
+
+#sair {
+  cursor: pointer;
+  margin-bottom: 28rem;
+  margin-left: 39rem;
+  display: flex;
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 50px;
+  position: fixed;
+  margin-bottom: 38rem;
+  width: 6rem;
+  height: 2.2rem;
+  border-radius: 2rem;
+  border: 1px solid rgba(0, 0, 0, 0.42);
+  background: rgba(255, 255, 255, 0.73);
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  font-family: Poppins;
+  font-size: 1.2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
