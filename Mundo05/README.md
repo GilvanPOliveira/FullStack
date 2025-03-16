@@ -1,4 +1,4 @@
-# Mundo 05 - #########
+# Mundo 05 - Gestão & Negócios
 
 ## 📚 Sobre o Mundo05
 

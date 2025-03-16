@@ -15,7 +15,7 @@ Este repositório concentra todo o conteúdo estudado no curso de Desenvolviment
 
 [Mundo 04](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo04) - Programador Cloud & Mobile - Utilizando Azure Cloud, Azure Iot, Flutter, Dart, Java, JavaScript, React-Native, AndroidStudio e Wear OS.
 
-[Mundo 05](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo05) - Programador ##### - Utilizando ######
+[Mundo 05](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo05) - Gestão & Negócios - Utilizando Metodologias Ágeis, Google Colab, Tratamento de Dados, Machine Learnig e Segurança de Dados.
 
 ## 🛠 Tecnologias Utilizadas
 
