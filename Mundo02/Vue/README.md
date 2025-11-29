@@ -117,8 +117,8 @@ A partir dos objetivos listados abaixo, no final do projeto, você terá experim
 
   <br>
 
-- [Acessar Deploy](https://mundo02-vue.vercel.app/)
+- [Acessar Deploy](https://full-stack-mundo02-vue.vercel.app/)
 
  <br>
   
-[<- Retornar ao Mundo02](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo02)
+[<- Retornar](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo02)
