@@ -77,8 +77,8 @@ A partir dos objetivos listados abaixo, no final do projeto, você terá criado 
   
   <br>
 
-- [Acessar Deploy](https://mundo02-react.vercel.app/)
+- [Deploy efetuado na parte 02](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo02/Next)
   
  <br>
   
-[<- Retornar ao Mundo02](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo02)
+[<- Retornar](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo02)
