@@ -1,7 +1,5 @@
 # Mundo 01 - Programador Raiz em Python
 
-## Perfil no BeeCrowd 🐝: [GilvanOliveira](https://judge.beecrowd.com/pt/profile/791065)
-
 ## 📚 Sobre o Mundo01
 
 O Mundo01 reúne soluções para alguns problemas de programação oferecidos pela plataforma BeeCrowd 🐝, organizadas por níveis conforme o semestre cursado. O objetivo é auxiliar outros desenvolvedores e estudantes a compreenderem minha abordagem na resolução desses desafios, contribuindo para o aprimoramento de suas habilidades e conhecimentos. Composto por dois diretórios, um contendo cinco níveis referente ao semestre estudado e outro referente a estudos complementares.
@@ -36,4 +34,4 @@ Se tiver dúvidas ou sugestões, fique à vontade para entrar em contato:
 
   <br>
   
-[<- Retornar ao Repositório Full Stack](https://github.com/GilvanPOliveira/FullStack)
+[<- Retornar](https://github.com/GilvanPOliveira/FullStack)
