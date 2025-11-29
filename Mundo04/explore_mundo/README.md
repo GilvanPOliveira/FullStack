@@ -343,10 +343,10 @@ Dentro da coluna, temos dois elementos de texto, onde o primeiro é exibido em n
 </div>
 
 ## Execução do App:
+https://github.com/user-attachments/assets/10bc6fc1-615e-4904-b6c3-b6ad45487f11
 
-https://github.com/user-attachments/assets/c4af697d-079d-4b84-9a44-8ca5ba5b7625
+[Link externo para o vídeo](https://imgur.com/pEgiZok)
 
 <br>
   
-[<- Retornar ao Mundo04](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo04)
-
+[<- Retornar](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo04)
