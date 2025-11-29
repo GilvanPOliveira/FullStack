@@ -1,4 +1,4 @@
-# Nível 03 - (parte 02) - RPG0010 - Meu primeiro framework - Next.Js, TypeScript e Css;
+# Nível 03 - (parte 02) - RPG0010 - Meu primeiro framework - Next.Js, TypeScript e Css
 
 Criação de front-end web com base em React JS ou Next JS, com utilização de bases de teste JSON, em memória, para ambas as plataformas.
 
@@ -104,8 +104,8 @@ A partir dos objetivos listados abaixo, no final do projeto, você terá criado 
 
   <br>
 
-- [Acessar Deploy](https://mundo02-nextjs.vercel.app/)
+- [Acessar Deploy](https://full-stack-mundo02-next.vercel.app/)
   
  <br>
   
-[<- Retornar ao Mundo02](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo02)
+[<- Retornar](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo02)
