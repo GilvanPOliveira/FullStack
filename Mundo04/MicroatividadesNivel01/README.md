@@ -33,12 +33,10 @@ Nesta atividade, você aprenderá a incorporar imagens em um aplicativo React Na
 </div>
 
 ## Execução do App:
+https://github.com/user-attachments/assets/d436c277-6605-4577-84f1-926bc485e282
 
-https://github.com/user-attachments/assets/f03b9165-fd28-4689-9c96-a631b15635d8
+[Link externo do vídeo](https://imgur.com/BxcDFkF)
 
 <br>
   
-[<- Retornar ao Mundo04](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo04)
-
-
-
+[<- Retornar](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo04)
