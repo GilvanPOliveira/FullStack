@@ -1,7 +1,5 @@
 # Nível 01 - RPG0023 - Vamos criar um App
 
-
-
 ## Contextualização
 
 A empresa "Meeting" busca criar um aplicativo móvel eficaz para o cadastro de fornecedores, com listas e imagens de alta qualidade, economizando recursos e proporcionando uma excelente experiência ao usuário. A escolha da tecnologia React Native é crucial para estabelecer uma presença sólida no mercado móvel. Nesta atividade, você aprenderá os princípios básicos do React Native.
@@ -43,9 +41,10 @@ A empresa "Meeting" busca criar um aplicativo móvel eficaz para o cadastro de f
 </div>
 
 ## Execução do App:
+https://github.com/user-attachments/assets/6570dfce-c8ef-424d-94be-8cb4eb465227
 
-https://github.com/user-attachments/assets/4b8d5a86-07a8-48ad-9cda-3d94d0a3dae3
+[Link externo para o vídeo](https://imgur.com/3ggrmJS)
 
 <br>
   
-[<- Retornar ao Mundo04](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo04)
+[<- Retornar](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo04)
