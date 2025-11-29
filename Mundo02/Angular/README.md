@@ -1,4 +1,4 @@
-# Nível 04 - RPG0011 - Conhecendo outro framework - Angular, TypeScript e Css;
+# Nível 04 - RPG0011 - Conhecendo outro framework - Angular, TypeScript e Css
 
 Implementação de front-end web com base no framework Angular, utilizando serviços e componentes na sintaxe TypeScript.
 
@@ -99,11 +99,11 @@ Execute com o comando ng serve, e acessar o endereço http://localhost:4200/ atr
   
   <br>
 
-- [Acessar Deploy](https://mundo02-angular.vercel.app/lista)
+- [Acessar Deploy](https://full-stack-mundo02-angular.vercel.app/lista)
 
  <br>
  
-[<- Retornar ao Mundo02](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo02)
+[<- Retornar](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo02)
 
 
 
