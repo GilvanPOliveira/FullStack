@@ -43,10 +43,10 @@ rodada;
   
   <br>
 
-- [Acessar Deploy](https://mundo02-one-quiz.vercel.app/)
+- [Acessar Deploy](https://full-stack-mundo02-one-quiz.vercel.app/)
   
  <br>
   
-[<- Retornar ao Mundo02](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo02)
+[<- Retornar](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo02)
 
 
