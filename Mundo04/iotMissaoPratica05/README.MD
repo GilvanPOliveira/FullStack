@@ -31,6 +31,4 @@ Ao finalizar esta atividade, espera-se que o aluno tenha realizado com sucesso a
 
 <br>
   
-[<- Retornar ao Mundo04](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo04)
-
-
+[<- Retornar](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo04)
