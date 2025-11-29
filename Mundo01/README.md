@@ -8,13 +8,13 @@ O Mundo01 reúne soluções para alguns problemas de programação oferecidos pe
 
 [Nível 01](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo01/Beecrowd) - RPG0001 -  Desvendando essa caixa preta;
 
-[Nível 02](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo01/Beecrowd) RPG0002 - Vamos iniciar a jornada;
+[Nível 02](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo01/Beecrowd) - RPG0002 - Vamos iniciar a jornada;
 
-[Nível 03](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo01/Beecrowd) RPG0003 - Estruturando os dados;
+[Nível 03](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo01/Beecrowd) - RPG0003 - Estruturando os dados;
 
-[Nível 04](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo01/Beecrowd) RPG0004 - Conhecendo novos paradigmas;
+[Nível 04](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo01/Beecrowd) - RPG0004 - Conhecendo novos paradigmas;
 
-[Nível 05](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo01/Beecrowd) RPG0005 - Colocando tudo em ordem e guardando.
+[Nível 05](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo01/Beecrowd) - RPG0005 - Colocando tudo em ordem e guardando.
 
 ## 🚀 Estrutura do Mundo01
 
