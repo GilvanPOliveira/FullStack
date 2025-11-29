@@ -40,11 +40,12 @@ direita apresenta o resultado do código apresentado acima.
 </div>
 
 ## Execução do App:
+https://github.com/user-attachments/assets/ef12bfea-83bf-4f88-8d1d-d8c1011531b2
 
-https://github.com/user-attachments/assets/a3ab5f79-b1a0-4e1a-b077-e723c589496a
+[Link externo para o vídeo](https://imgur.com/1WUtYqE)
 
 <br>
   
-[<- Retornar ao Mundo04](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo04)
+[<- Retornar](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo04)
 
 
