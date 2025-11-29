@@ -47,4 +47,4 @@ Se tiver dúvidas ou sugestões, fique à vontade para entrar em contato:
 
   <br>
   
-[<- Retornar ao Repositório Full Stack](https://github.com/GilvanPOliveira/FullStack)
+[<- Retornar](https://github.com/GilvanPOliveira/FullStack)
