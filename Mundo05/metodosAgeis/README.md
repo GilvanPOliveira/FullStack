@@ -25,5 +25,5 @@ seguir, no roteiro de prática.
 
 <br>
   
-[<- Retornar ao Mundo05](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo05)
+[<- Retornar](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo05)
 
