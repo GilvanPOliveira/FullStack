@@ -33,7 +33,7 @@ Este projeto simula um sistema de gerenciamento de livros, com operações de li
 
 ##
 
-## 🌐 Deploy
+## Deploy
 
 - [Acessar Deploy](https://full-stack-mundo02-angular.vercel.app/lista)
 
