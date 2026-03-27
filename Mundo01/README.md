@@ -1,10 +1,24 @@
-# Mundo 01 - Programador Raiz em Python
- 
-## 📚 Sobre o Mundo01
+# Mundo 01
 
-O Mundo01 reúne soluções para alguns problemas de programação oferecidos pela plataforma BeeCrowd 🐝, organizadas por níveis conforme o semestre cursado. O objetivo é auxiliar outros desenvolvedores e estudantes a compreenderem minha abordagem na resolução desses desafios, contribuindo para o aprimoramento de suas habilidades e conhecimentos. Composto por dois diretórios, um contendo cinco níveis referente ao semestre estudado e outro referente a estudos complementares.
+Módulo focado em lógica de programação com Python e resolução de problemas.
 
-## 📖 Conteúdo estudado:
+##
+
+## Sobre
+
+Este diretório reúne exercícios e estudos desenvolvidos no início da formação, com foco em raciocínio lógico, algoritmos e prática de programação utilizando Python. O conteúdo está dividido entre exercícios da plataforma BeeCrowd e exemplos complementares para reforço de aprendizado.
+
+##
+
+## Estrutura do Mundo01
+
+[Beecrowd](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo01/Beecrowd) 🐝- Exercícios resolvidos e organizados por níveis de evolução.
+
+[MaisExemplos](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo01/MaisExemplos) - Exercícios complementares e exemplos adicionais em Python.
+
+##
+
+## Conteúdo estudado:
 
 [Nível 01](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo01/Beecrowd) - RPG0001 -  Desvendando essa caixa preta;
 
@@ -16,22 +30,22 @@ O Mundo01 reúne soluções para alguns problemas de programação oferecidos pe
 
 [Nível 05](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo01/Beecrowd) - RPG0005 - Colocando tudo em ordem e guardando.
 
-## 🚀 Estrutura do Mundo01
+## 
 
-[Beecrowd](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo01/Beecrowd) 🐝- Contendo exercícios separados em cinco níveis referente ao semestre estudado;
+## Stack
 
-[MaisExemplos](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo01/MaisExemplos) - Contendo mais exercícios resolvidos após o semestre estudado para melhor fixação do aprendizado.
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 
-## 🛠 Tecnologias Utilizadas
+* Python
+* As soluções são implementadas diretamente no site [BeeCrowd](https://judge.beecrowd.com/pt/categories) 🐝 que analisa e verifica o que foi solucionado.
 
-As soluções são implementadas diretamente no site [BeeCrowd](https://judge.beecrowd.com/pt/categories) 🐝 que analisa e verifica o que foi solucionado.
+##
 
-## 📬 Contato
+## Contato
 
-Se tiver dúvidas ou sugestões, fique à vontade para entrar em contato:
-- E-mail: gilvanoliveira06@gmail.com
-- Portifólio: [Gilvan Oliveira](https://gilvanpoliveira.github.io/)
+* Portfólio: https://gilvanpoliveira.github.io/
+* Email: [gilvanoliveira06@gmail.com](mailto:gilvanoliveira06@gmail.com)
 
-  <br>
-  
-[<- Retornar](https://github.com/GilvanPOliveira/FullStack)
+##
+
+[← Voltar](https://github.com/GilvanPOliveira/FullStack)
