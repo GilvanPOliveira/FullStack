@@ -33,7 +33,7 @@ Projeto desenvolvido como aplicação frontend interativa, permitindo que usuár
 
 ## Deploy
 
-[Acessar Deploy](https://full-stack-mundo02-one-quiz.vercel.app/)
+- [Acessar Deploy](https://full-stack-mundo02-one-quiz.vercel.app/)
 
 ##
 
