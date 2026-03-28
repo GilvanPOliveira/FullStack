@@ -1,38 +1,83 @@
-# Mundo 05 - Nível 05 - Missão Prática - SOFTWARE SEM SEGURANÇA NÃO SERVE!
+# Missão Prática — Segurança de API
 
-Através dessa atividade o aluno analisará uma falha de segurança, em uma aplicação web, e aplicará as medidas corretivas necessárias para garantir o seu correto e seguro funcionamento.
+Análise e correção de vulnerabilidades em uma aplicação web baseada em API REST.
 
-## Contextualização
+##
 
-O time de segurança da Software House, onde você atua como Especialista em Desenvolvimento de Software, identificou uma falha de segurança, explorada por ataques que geraram o vazamento de dados, além de outros problemas, em uma das aplicações legadas, desenvolvida há alguns anos atrás. Tal falha consiste na concessão de acesso não autorizado de recursos a usuários. O cenário completo é descrito a seguir:
+## Sobre
 
-A aplicação web possui um frontend e um backend, sendo esse último uma API Rest. O padrão geral da estrutura de URLs (e URI) da aplicação é:
+Esta atividade consiste na identificação e correção de falhas de segurança em uma aplicação web legada.
 
-- http://dominio.com/nome-do-recurso/{session-id}
-- http://dominio.com/nome-do-recurso/{id}/{session-id}
+A aplicação possuía vulnerabilidades relacionadas à autenticação, controle de acesso e tratamento inadequado de parâmetros, permitindo que usuários não autorizados acessassem recursos protegidos.
 
-O padrão acima é usado tanto no frontend, no navegador, como no backend, nos endpoints.
+O objetivo do projeto é refatorar a arquitetura da aplicação para garantir maior segurança no acesso à API.
 
-Após uma simples análise, foi identificado que o valor do parâmetro “session-id” é obtido com a encriptação do id do usuário logado no sistema, usando um processo suscetível a falhas, uma vez que um dos principais dados necessários no processo de criptografia é o próprio nome da empresa detentora do software.
+##
 
-Logo, tal falha é passível de ser explorada via ataques de força bruta para descoberta do padrão usado na geração da “session-id” e consequente geração de valores aleatórios que serão usados para a realização de requisições – como solicitações de dados e também criação e atualização – na aplicação, até a obtenção do acesso indevido.
+## Problemas Identificados
 
-Além do problema já relatado, o time de segurança descobriu que, atualmente, não é realizado nenhum tratamento no processamento dos parâmetros trafegados na aplicação. Logo, também é possível explorar outras falhas, como as de “Injection” de códigos maliciosos.
+Durante a análise da aplicação foram detectadas vulnerabilidades críticas:
 
-Frente ao exposto, seu trabalho consistirá em refatorar a aplicação, conforme procedimentos descritos a seguir.
+**Sessão baseada em identificador previsível**
 
-## Procedimentos
+* o identificador de sessão era derivado do ID do usuário
+* o algoritmo utilizado permitia ataques de força bruta
 
-1. Abra o código-fonte fornecido acima na IDE ou editor;
-2. Refatore o método de criptografia utilizado atualmente, substituindo a geração do “session-id” por um outro mecanismo de segurança, como tokens JWT;
-3. Refatore a arquitetura da API, para que o token (atualmente representado pelo “session-id”) não seja trafegado via URI, mas através do header da requisição;
-4. A cada requisição recebida pela API, valide o token de segurança, incluindo a identidade do usuário, data/hora de expiração do mesmo, etc.;
-5. Inclua, em todos os endpoints, controle de acesso a recursos baseado no perfil do usuário. Garante que, à exceção do endpoint de login, todos os demais sejam acessados apenas por usuários com perfil ‘admin’;
-6. Para testar a implementação do item anterior, crie um novo endpoint que permita a recuperação dos dados do usuário logado. Tal método não deverá conter o controle de acesso limitado ao perfil ‘admin’;
-7. Refatore o método que realiza a busca de contratos no banco, tratando os parâmetros recebidos contra vulnerabilidades do tipo “Injection”. Para isso você poderá utilizar bibliotecas de terceiros, expressões regulares ou outro mecanismo que garanta o sucesso do processo em questão;
-8. Salve o código e coloque a API para ser executada;
-9. Utilizando um cliente (Insomnia, Postman ou outro de sua preferência), realize testes na API, garantindo que todos os pontos acima foram tratados.
+**Token exposto na URL**
 
-<br>
-  
-[<- Retornar ao Mundo05](https://github.com/GilvanPOliveira/FullStack/tree/main/softwareSeguranca)
+* o identificador de sessão era transmitido diretamente via URI
+* permitindo interceptação ou reutilização do token
+
+**Ausência de controle de acesso**
+
+* endpoints não possuíam validação adequada de permissões
+
+**Falta de validação de parâmetros**
+
+* parâmetros enviados à aplicação não eram tratados
+* permitindo exploração de ataques de **Injection**
+
+##
+
+## Correções Implementadas
+
+Para mitigar as vulnerabilidades identificadas foram aplicadas as seguintes melhorias:
+
+* substituição do identificador de sessão por **tokens JWT**
+* envio do token através do **header de autenticação**
+* validação do token em cada requisição
+* implementação de controle de acesso baseado em perfis
+* criação de endpoint seguro para consulta de dados do usuário autenticado
+* sanitização e validação de parâmetros contra ataques de **Injection**
+
+##
+
+## Conceitos Aplicados
+
+* autenticação baseada em tokens
+* autorização baseada em papéis (RBAC)
+* segurança em APIs REST
+* mitigação de ataques de força bruta
+* prevenção de vulnerabilidades de Injection
+
+##
+
+## Testes
+
+Após as correções, a API pode ser testada utilizando clientes de requisição HTTP como:
+
+* Postman
+* Insomnia
+
+Essas ferramentas permitem validar autenticação, autorização e o funcionamento correto dos endpoints.
+
+##
+
+## Contato
+
+* Portfólio: https://gilvanpoliveira.github.io
+* Email: [gilvanoliveira06@gmail.com](mailto:gilvanoliveira06@gmail.com)
+
+##
+
+[← Voltar](https://github.com/GilvanPOliveira/FullStack/tree/main/softwareSeguranca)
