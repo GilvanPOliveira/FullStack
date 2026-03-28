@@ -1,28 +1,56 @@
-# Mundo 05 - Nível 05: Tratamento de Dados Sensíveis e Log de Erros com Foco em Segurança
+# Microatividade 02 — Tratamento de Dados Sensíveis e Log de Erros
 
-## Microatividade 1: Análise e Correção de Vulnerabilidades em Código
+Exercício focado na aplicação de boas práticas de segurança no tratamento de dados sensíveis e no controle de logs em sistemas.
 
-Nesta atividade, você aprenderá a identificar e corrigir vulnerabilidades em códigos-fonte de diferentes linguagens de programação. O objetivo é garantir a segurança dos sistemas desenvolvidos por uma Software House, tratando vulnerabilidades existentes e prevenindo ataques futuros. Para isso, você analisará um fragmento de código de uma API Rest, implementando autenticação e controle de acesso para proteger os dados sensíveis.
+##
 
-## Microatividade 2: Tratamento de Dados Sensíveis e Log de Erros com Foco em Segurança
+## Sobre
 
-Nesta atividade, você aprenderá a aplicar boas práticas de segurança no tratamento de dados sensíveis e log de erros. O foco será a implementação de políticas de validação de credenciais, limitação de tentativas de login e mensagens de erro genéricas para evitar exposição de informações sigilosas.
+Esta atividade aborda práticas fundamentais para garantir a segurança de aplicações que manipulam dados sensíveis.
 
-## Microatividade 3: Prevenção de Ataques de Acesso Não Autorizado com Base em Tokens Desprotegidos
+O objetivo é compreender como proteger credenciais e informações críticas, além de implementar estratégias seguras para tratamento de erros sem expor dados internos da aplicação.
 
-Nesta atividade, você aprenderá a implementar proteção adequada para tokens de autenticação. O objetivo é aprimorar a segurança no uso de JWT, garantindo a definição de um tempo de expiração, a validação de tokens antes do uso e a prevenção de requisições com tokens expirados.
+A atividade simula um cenário comum em ambientes corporativos, onde sistemas precisam lidar com autenticação de usuários e registro de eventos sem comprometer a segurança da informação.
 
-## Microatividade 4: Tratamento de SQL Injection em Códigos-Fonte
+##
 
-Nesta atividade, você aprenderá a evitar ataques de SQL Injection por meio da utilização de consultas preparadas e validação de entradas. O foco será a refatoração de um fragmento de código vulnerável para garantir a segurança na interação com bancos de dados.
+## Objetivo
 
-## Microatividade 5: Tratamento de CRLF Injection em Códigos-Fonte
+Aplicar boas práticas de segurança relacionadas ao tratamento de dados sensíveis e gerenciamento de logs, incluindo:
 
-Nesta atividade, você aprenderá a prevenir ataques de CRLF Injection ao tratar entradas de usuários e impedir a manipulação de cabeçalhos HTTP. O objetivo é refatorar um código de redirecionamento para garantir que apenas domínios confiáveis sejam acessados, evitando vulnerabilidades na aplicação.
+- validação segura de credenciais
+- limitação de tentativas de login
+- tratamento adequado de mensagens de erro
+- prevenção de exposição de informações sensíveis
 
-<br>
-  
-[<- Retornar ao Projeto](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo05/softwareSeguranca/microAtividades)
+##
+
+## Conceitos Aplicados
+
+- segurança no tratamento de dados sensíveis  
+- políticas de autenticação  
+- controle de tentativas de login  
+- boas práticas de logging seguro  
+
+##
+
+## Ferramentas e Conceitos
+
+- APIs REST
+- autenticação segura
+- validação de entrada
+- boas práticas de segurança em aplicações
+
+##
+
+## Contato
+
+- Portfólio: https://gilvanpoliveira.github.io  
+- Email: gilvanoliveira06@gmail.com  
+
+##
+
+[← Voltar](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo05/softwareSeguranca/microAtividades)
 
 
 
