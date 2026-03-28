@@ -1,28 +1,56 @@
-# Mundo 05 - Nível 05: Análise e Correção de Vulnerabilidades em Código
+# Microatividade 01 — Análise e Correção de Vulnerabilidades
 
-## Microatividade 1: Análise e Correção de Vulnerabilidades em Código
+Exercício focado na identificação e correção de vulnerabilidades em uma API REST.
 
-Nesta atividade, você aprenderá a identificar e corrigir vulnerabilidades em códigos-fonte de diferentes linguagens de programação. O objetivo é garantir a segurança dos sistemas desenvolvidos por uma Software House, tratando vulnerabilidades existentes e prevenindo ataques futuros. Para isso, você analisará um fragmento de código de uma API Rest, implementando autenticação e controle de acesso para proteger os dados sensíveis.
+##
 
-## Microatividade 2: Tratamento de Dados Sensíveis e Log de Erros com Foco em Segurança
+## Sobre
 
-Nesta atividade, você aprenderá a aplicar boas práticas de segurança no tratamento de dados sensíveis e log de erros. O foco será a implementação de políticas de validação de credenciais, limitação de tentativas de login e mensagens de erro genéricas para evitar exposição de informações sigilosas.
+Esta atividade explora a análise de código de uma aplicação web com foco em segurança.
 
-## Microatividade 3: Prevenção de Ataques de Acesso Não Autorizado com Base em Tokens Desprotegidos
+O objetivo é identificar vulnerabilidades presentes em um fragmento de código e aplicar correções para proteger dados sensíveis e impedir acessos não autorizados.
 
-Nesta atividade, você aprenderá a implementar proteção adequada para tokens de autenticação. O objetivo é aprimorar a segurança no uso de JWT, garantindo a definição de um tempo de expiração, a validação de tokens antes do uso e a prevenção de requisições com tokens expirados.
+A atividade simula o trabalho de um desenvolvedor responsável por revisar e reforçar a segurança de sistemas utilizados por uma Software House.
 
-## Microatividade 4: Tratamento de SQL Injection em Códigos-Fonte
+##
 
-Nesta atividade, você aprenderá a evitar ataques de SQL Injection por meio da utilização de consultas preparadas e validação de entradas. O foco será a refatoração de um fragmento de código vulnerável para garantir a segurança na interação com bancos de dados.
+## Objetivo
 
-## Microatividade 5: Tratamento de CRLF Injection em Códigos-Fonte
+Aplicar boas práticas de segurança no desenvolvimento de software, incluindo:
 
-Nesta atividade, você aprenderá a prevenir ataques de CRLF Injection ao tratar entradas de usuários e impedir a manipulação de cabeçalhos HTTP. O objetivo é refatorar um código de redirecionamento para garantir que apenas domínios confiáveis sejam acessados, evitando vulnerabilidades na aplicação.
+* identificação de vulnerabilidades em código
+* implementação de autenticação segura
+* controle de acesso a recursos sensíveis
+* proteção de dados manipulados pela API
 
-<br>
-  
-[<- Retornar ao Projeto](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo05/softwareSeguranca/microAtividades)
+##
+
+## Conceitos Aplicados
+
+* segurança de APIs REST
+* autenticação e autorização
+* proteção de dados sensíveis
+* revisão de código com foco em segurança
+
+##
+
+## Ferramentas e Conceitos
+
+* APIs REST
+* autenticação baseada em tokens
+* validação de requisições
+* boas práticas de segurança em software
+
+##
+
+## Contato
+
+* Portfólio: https://gilvanpoliveira.github.io
+* Email: [gilvanoliveira06@gmail.com](mailto:gilvanoliveira06@gmail.com)
+
+##
+
+[← Voltar](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo05/softwareSeguranca/microAtividades)
 
 
 
