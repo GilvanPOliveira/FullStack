@@ -1,25 +1,53 @@
-# Mundo 05 - Nível 05: Tratamento de SQL Injection em Códigos-Fonte
+# Microatividade 05 — Tratamento de CRLF Injection
 
-## Microatividade 1: Análise e Correção de Vulnerabilidades em Código
+Exercício focado na identificação e correção de vulnerabilidades relacionadas a **CRLF Injection** em aplicações web.
 
-Nesta atividade, você aprenderá a identificar e corrigir vulnerabilidades em códigos-fonte de diferentes linguagens de programação. O objetivo é garantir a segurança dos sistemas desenvolvidos por uma Software House, tratando vulnerabilidades existentes e prevenindo ataques futuros. Para isso, você analisará um fragmento de código de uma API Rest, implementando autenticação e controle de acesso para proteger os dados sensíveis.
+##
 
-## Microatividade 2: Tratamento de Dados Sensíveis e Log de Erros com Foco em Segurança
+## Sobre
 
-Nesta atividade, você aprenderá a aplicar boas práticas de segurança no tratamento de dados sensíveis e log de erros. O foco será a implementação de políticas de validação de credenciais, limitação de tentativas de login e mensagens de erro genéricas para evitar exposição de informações sigilosas.
+Esta atividade aborda uma vulnerabilidade conhecida como **CRLF Injection**, que ocorre quando entradas fornecidas por usuários são utilizadas sem validação adequada na manipulação de cabeçalhos HTTP.
 
-## Microatividade 3: Prevenção de Ataques de Acesso Não Autorizado com Base em Tokens Desprotegidos
+Esse tipo de falha pode permitir que usuários mal-intencionados modifiquem a estrutura das respostas HTTP, provoquem redirecionamentos indevidos ou manipulem informações transmitidas pela aplicação.
 
-Nesta atividade, você aprenderá a implementar proteção adequada para tokens de autenticação. O objetivo é aprimorar a segurança no uso de JWT, garantindo a definição de um tempo de expiração, a validação de tokens antes do uso e a prevenção de requisições com tokens expirados.
+A atividade simula a análise e refatoração de um trecho de código vulnerável para garantir que apenas entradas seguras sejam utilizadas no processamento da aplicação.
 
-## Microatividade 4: Tratamento de SQL Injection em Códigos-Fonte
+##
 
-Nesta atividade, você aprenderá a evitar ataques de SQL Injection por meio da utilização de consultas preparadas e validação de entradas. O foco será a refatoração de um fragmento de código vulnerável para garantir a segurança na interação com bancos de dados.
+## Objetivo
 
-## Microatividade 5: Tratamento de CRLF Injection em Códigos-Fonte
+Aplicar boas práticas de segurança no tratamento de parâmetros utilizados em cabeçalhos HTTP, incluindo:
 
-Nesta atividade, você aprenderá a prevenir ataques de CRLF Injection ao tratar entradas de usuários e impedir a manipulação de cabeçalhos HTTP. O objetivo é refatorar um código de redirecionamento para garantir que apenas domínios confiáveis sejam acessados, evitando vulnerabilidades na aplicação.
+* validação de entradas fornecidas pelo usuário
+* prevenção de manipulação de cabeçalhos HTTP
+* proteção contra redirecionamentos maliciosos
+* fortalecimento da segurança da aplicação
 
-<br>
-  
-[<- Retornar ao Projeto](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo05/softwareSeguranca/microAtividades)
+##
+
+## Conceitos Aplicados
+
+* segurança em aplicações web
+* prevenção de CRLF Injection
+* validação de entradas
+* proteção de cabeçalhos HTTP
+
+##
+
+## Ferramentas e Conceitos
+
+* APIs REST
+* validação de parâmetros
+* tratamento seguro de requisições
+* boas práticas de segurança em software
+
+##
+
+## Contato
+
+* Portfólio: https://gilvanpoliveira.github.io
+* Email: [gilvanoliveira06@gmail.com](mailto:gilvanoliveira06@gmail.com)
+
+##
+
+[← Voltar](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo05/softwareSeguranca/microAtividades)
