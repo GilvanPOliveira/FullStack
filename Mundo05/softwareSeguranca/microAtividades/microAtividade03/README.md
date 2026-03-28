@@ -1,28 +1,56 @@
-# Mundo 05 - Nível 05: Prevenção de Ataques de Acesso Não Autorizado com Base em Tokens Desprotegidos
+# Microatividade 03 — Prevenção de Acesso Não Autorizado com Tokens
 
-## Microatividade 1: Análise e Correção de Vulnerabilidades em Código
+Exercício focado na proteção de sistemas contra acessos indevidos causados pelo uso incorreto ou inseguro de tokens de autenticação.
 
-Nesta atividade, você aprenderá a identificar e corrigir vulnerabilidades em códigos-fonte de diferentes linguagens de programação. O objetivo é garantir a segurança dos sistemas desenvolvidos por uma Software House, tratando vulnerabilidades existentes e prevenindo ataques futuros. Para isso, você analisará um fragmento de código de uma API Rest, implementando autenticação e controle de acesso para proteger os dados sensíveis.
+##
 
-## Microatividade 2: Tratamento de Dados Sensíveis e Log de Erros com Foco em Segurança
+## Sobre
 
-Nesta atividade, você aprenderá a aplicar boas práticas de segurança no tratamento de dados sensíveis e log de erros. O foco será a implementação de políticas de validação de credenciais, limitação de tentativas de login e mensagens de erro genéricas para evitar exposição de informações sigilosas.
+Esta atividade aborda vulnerabilidades relacionadas ao uso inadequado de tokens de autenticação em aplicações web.
 
-## Microatividade 3: Prevenção de Ataques de Acesso Não Autorizado com Base em Tokens Desprotegidos
+Tokens mal configurados ou sem validações adequadas podem permitir que usuários realizem requisições indevidas ou acessem recursos protegidos.
 
-Nesta atividade, você aprenderá a implementar proteção adequada para tokens de autenticação. O objetivo é aprimorar a segurança no uso de JWT, garantindo a definição de um tempo de expiração, a validação de tokens antes do uso e a prevenção de requisições com tokens expirados.
+O objetivo do exercício é compreender como proteger corretamente o uso de tokens, garantindo que somente usuários autorizados possam acessar determinados recursos do sistema.
 
-## Microatividade 4: Tratamento de SQL Injection em Códigos-Fonte
+##
 
-Nesta atividade, você aprenderá a evitar ataques de SQL Injection por meio da utilização de consultas preparadas e validação de entradas. O foco será a refatoração de um fragmento de código vulnerável para garantir a segurança na interação com bancos de dados.
+## Objetivo
 
-## Microatividade 5: Tratamento de CRLF Injection em Códigos-Fonte
+Implementar boas práticas de segurança no uso de tokens de autenticação, incluindo:
 
-Nesta atividade, você aprenderá a prevenir ataques de CRLF Injection ao tratar entradas de usuários e impedir a manipulação de cabeçalhos HTTP. O objetivo é refatorar um código de redirecionamento para garantir que apenas domínios confiáveis sejam acessados, evitando vulnerabilidades na aplicação.
+- definição de tempo de expiração para tokens
+- validação obrigatória de tokens antes do acesso a recursos
+- prevenção de requisições utilizando tokens expirados ou inválidos
 
-<br>
-  
-[<- Retornar ao Projeto](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo05/softwareSeguranca/microAtividades)
+##
+
+## Conceitos Aplicados
+
+- autenticação baseada em tokens
+- segurança em APIs REST
+- controle de acesso
+- validação de tokens JWT
+
+##
+
+## Ferramentas e Conceitos
+
+- APIs REST
+- autenticação baseada em JWT
+- validação de requisições
+- segurança de aplicações web
+
+##
+
+## Contato
+
+- Portfólio: https://gilvanpoliveira.github.io  
+- Email: gilvanoliveira06@gmail.com  
+
+##
+
+[← Voltar](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo05/softwareSeguranca/microAtividades)
+
 
 
 
