@@ -1,10 +1,32 @@
-# Mundo 05 - Gestão & Negócios
+# Mundo 05
 
-## 📚 Sobre o Mundo05
+Módulo focado em gestão de projetos, métodos ágeis, análise de dados, inteligência de software e segurança.
 
-O Mundo05 reúne soluções para diversos problemas de programação relacionados à carreira #####, organizadas por nível de acordo com o semestre cursado. Por meio do uso de tecnologias como ######, o projeto auxilia desenvolvedores e estudantes a compreenderem melhor essas ferramentas, contribuindo significativamente para o seu crescimento e aprimoramento profissional.
+##
 
-## 📖 Conteúdo estudado:
+## Sobre
+
+Este diretório reúne atividades e projetos voltados para aspectos estratégicos do desenvolvimento de software, incluindo gestão de projetos, metodologias ágeis, tratamento e análise de dados, aplicação de inteligência em sistemas e fundamentos de segurança da informação.
+
+O objetivo é complementar as habilidades técnicas adquiridas nos módulos anteriores com práticas relacionadas à organização, qualidade e evolução de sistemas.
+
+##
+
+## Estrutura do Mundo 05
+
+[Nível 01](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo05/gerenciarProjeto) - Fundamentos de gestão de projetos de software.
+
+[Nível 02](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo05/metodosAgeis) - Aplicação de metodologias ágeis no desenvolvimento de software.
+
+[Nível 03](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo05/tratandoDados) - Tratamento e análise de grandes volumes de dados.
+
+[Nível 04](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo05/softwareInteligente) - Introdução a sistemas inteligentes e aplicações de aprendizado de máquina.
+
+[Nível 05](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo05/softwareSeguranca) - Práticas e fundamentos de segurança no desenvolvimento de software.
+
+##
+
+## Conteúdo estudado:
 
 [Nível 01](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo05/gerenciarProjeto) - RPG0031 - Vamos gerenciar um projeto
 
@@ -16,29 +38,24 @@ O Mundo05 reúne soluções para diversos problemas de programação relacionado
 
 [Nível 05](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo05/softwareSeguranca) - RPG0035 - Software sem segurança não serve
 
-## 🚀 Estrutura do Mundo05
+##
 
-[Nível 01](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo05/gerenciarProjeto) - Gerenciar Projeto;
+## Tecnologias e Ferramentas
 
-[Nível 02](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo05/metodosAgeis) - Empregando métodos ágeis;
+[![My Skills](https://skillicons.dev/icons?i=python,vscode)](https://skillicons.dev)
 
-[Nível 03](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo05/tratandoDados) - Tratando a imensidão dos dados;
+* Python
+* Google Colab
+* Ferramentas de análise de dados
+* Práticas de segurança de software
 
-[Nível 04](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo05/softwareInteligente) - Dando inteligência ao software;
+##
 
-[Nível 05](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo05/softwareSeguranca) - Software sem segurança não serve;
- 
-## 🛠 Tecnologias Utilizadas
+## Contato
 
-[![My Skills](https://skillicons.dev/icons?i=vscode&perline=10)](https://github.com/GilvanPOliveira)
+* Portfólio: https://gilvanpoliveira.github.io
+* Email: [gilvanoliveira06@gmail.com](mailto:gilvanoliveira06@gmail.com)
 
+##
 
-## 📬 Contato
-
-Se tiver dúvidas ou sugestões, fique à vontade para entrar em contato:
-- E-mail: gilvanoliveira06@gmail.com
-- Portifólio: [Gilvan Oliveira](https://gilvanpoliveira.github.io/)
-
-  <br>
-  
-[<- Retornar](https://github.com/GilvanPOliveira/FullStack)
+[← Voltar](https://github.com/GilvanPOliveira/FullStack)
