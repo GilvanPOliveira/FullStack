@@ -1,44 +1,46 @@
-# Mundo 03 - Programador Back-End
+# Mundo 03
 
-## 📚 Sobre o Mundo03
+Módulo focado em desenvolvimento Backend utilizando Java e banco de dados SQL.
 
-O Mundo03 reúne soluções para diversos problemas de programação relacionados à carreira Back-End, organizadas por nível de acordo com o semestre cursado. Por meio do uso de tecnologias como Java utilizando banco de dados SQL, o projeto auxilia desenvolvedores e estudantes a compreenderem melhor essas ferramentas, contribuindo significativamente para o seu crescimento e aprimoramento profissional.
+##
 
-## 📖 Conteúdo estudado:
+## Sobre
 
-[Nível 01](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo03/CadastroPoo) - RPG0014 - Iniciando o caminho pelo Java;
+Este diretório reúne projetos desenvolvidos com foco em construção de aplicações backend, explorando conceitos como orientação a objetos, persistência de dados e integração entre sistemas.
 
-[Nível 02](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo03/Loja) - RPG0015 - Vamos Manter as Informações?; 
+Os projetos evoluem progressivamente desde aplicações Java básicas até sistemas completos com integração com banco de dados e execução em ambiente servidor.
 
-[Nível 03](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo03/CadastroBD) - RPG0016 - Back-end Sem Banco Não Tem;
+##
 
-[Nível 04](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo03/CadastroEE) - RPG0017 - Vamos Integrar Sistemas;
+## Estrutura do Mundo 03
 
-[Nível 05](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo03/CadastroServidor) - RPG0018 - Por Que Não Paralelizar?.
+[Nível 01](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo03/CadastroPoo) - RPG0014 - Iniciando o caminho pelo Java - Fundamentos de programação orientada a objetos com Java.
 
-## 🚀 Estrutura do Mundo02
+[Nível 02](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo03/Loja) - RPG0015 - Vamos Manter as Informações? - Persistência de dados utilizando banco de dados SQL. 
 
-[Nível 01](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo03/CadastroPoo) - Java;
+[Nível 03](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo03/CadastroBD) - RPG0016 - Back-end Sem Banco Não Tem - Integração entre aplicação Java e banco de dados.
 
-[Nível 02](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo03/Loja) - SQL;
+[Nível 04](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo03/CadastroEE) - RPG0017 - Vamos Integrar Sistemas - Aplicação corporativa utilizando Java Enterprise Edition.
 
-[Nível 03](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo03/CadastroBD) - Java e SQL criado anteriormente;
+[Nível 05](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo03/CadastroServidor) - RPG0018 - Por Que Não Paralelizar? - Sistema completo com integração entre backend e banco de dados.
 
-[Nível 04](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo03/CadastroEE) - Java;
+##
 
-[Nível 05](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo03/CadastroServidor) - União dos projetos criados em Java e SQL criado anteriormente; 
- 
-## 🛠 Tecnologias Utilizadas
+## Stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,mysql&perline=10)](https://github.com/GilvanPOliveira)
+[![My Skills](https://skillicons.dev/icons?i=java,mysql)](https://skillicons.dev)
 
+* Java
+* SQL / MySQL
 
-## 📬 Contato
+##
 
-Se tiver dúvidas ou sugestões, fique à vontade para entrar em contato:
-- E-mail: gilvanoliveira06@gmail.com
-- Portifólio: [Gilvan Oliveira](https://gilvanpoliveira.github.io/)
+## Contato
 
-  <br>
-  
-[<- Retornar](https://github.com/GilvanPOliveira/FullStack)
+* Portfólio: https://gilvanpoliveira.github.io/
+* Email: [gilvanoliveira06@gmail.com](mailto:gilvanoliveira06@gmail.com)
+
+##
+
+[← Voltar](https://github.com/GilvanPOliveira/FullStack)
+
