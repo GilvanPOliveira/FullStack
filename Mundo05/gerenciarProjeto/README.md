@@ -1,22 +1,58 @@
-# Mundo 05 - Nível 01 - RPG0031 - VAMOS GERENCIAR UM PROJETO!
+# Gestão de Mudanças em Projetos
 
-Através dessa atividade o aluno criará uma solicitação de mudanças para um projeto de construção de uma aplicação bancária utilizando os princípios de Gestão de Mudanças pregados pelo PMI.
+Atividade voltada à aplicação de conceitos de gestão de projetos baseados nas práticas do PMI (Project Management Institute).
 
-## Contextualização
+##
 
-O Banco Cruzeiro contratou sua empresa para realizar a gestão do seu projeto de criação de uma nova aplicação, responsável pelo gerenciamento de investimentos de seus clientes do tipo Pessoa Jurídica. Ao atuar como gerente do projeto em questão, você identificou, ao realizar a gestão de riscos, que duas bibliotecas de terceiros, definidas como premissas do projeto, foram consideradas como vulneráveis num relatório recente de segurança. Frente a isso, seu plano de contenção de riscos prevê a troca das bibliotecas em questão por outras. Nesse sentido, você deverá criar um documento de Solicitação de Mudanças, conforme roteiro definido a seguir.
+## Sobre
 
-## Procedimentos
-  1. Crie um novo documento em branco no editor de textos;
-  2. No cabeçalho do documento, insira o nome do documento, o nome do projeto e o nome do cliente. Inclua também o número da página de forma automática;
-  3. No corpo do documento, insira uma seção intitulada “Descrição da mudança”. Em tal parágrafo você deverá descrever a mudança em questão, incluindo o máximo possível de informações. Considera que não apenas pessoal técnico terá acesso a esse documento, mas também outras pessoas do negócio;
-  4. Insira uma nova seção denominada “Tipo de Mudança”. Nesse ponto, você deverá entender o tipo da mudança em questão (ação corretiva/ação preventiva/etc.). Após a identificação insira o tipo (conforme descrições do PMI) e forneça também uma pequena descrição para a mesma;
-  5. A próxima seção a ser inserida no documento é a de “Justificativa”. Nesse tópico você deverá descrever o(s) “porquê(s)” da mudança em questão;
-  6. A seguir, crie duas novas seções: uma para descrever os impactos previstos pela mudança e outra para descrever os benefícios esperados;
-  7. Agora, crie uma outra seção intitulada “Impactos e alternativas em caso de não implementação”. Nesse tópico você deverá descrever as possíveis soluções de contorno assim como os impactos caso a mudança não seja implementada. Procure agrupar os impactos: por ex.: custos, tempo, etc;
-  8. Por fim, e de forma opcional, você poderá, ainda, incluir uma seção para listar o plano de Avaliação da Solicitação de Mudança. Em tal plano devem constar os critérios objetivos através dos quais a mudança poderá ser avaliada.
+Este projeto apresenta a elaboração de uma **Solicitação de Mudança (Change Request)** dentro de um cenário de gestão de projetos de software.
 
-<br>
-  
-[<- Retornar](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo05)
+O objetivo é demonstrar como alterações em um projeto devem ser formalmente documentadas, analisadas e avaliadas antes de serem implementadas.
+
+O estudo utiliza como exemplo um sistema bancário em desenvolvimento, no qual bibliotecas de terceiros foram identificadas como vulneráveis em um relatório de segurança, exigindo substituição e reavaliação do planejamento do projeto.
+
+##
+
+## Objetivo
+
+Aplicar conceitos de **gestão de mudanças** em projetos de software, incluindo:
+
+* identificação da necessidade de mudança
+* classificação do tipo de mudança
+* justificativa técnica e estratégica
+* análise de impactos
+* avaliação de benefícios esperados
+* definição de alternativas caso a mudança não seja implementada
+
+##
+
+## Estrutura do Documento
+
+O documento de solicitação de mudança inclui as seguintes seções:
+
+* descrição da mudança
+* tipo de mudança
+* justificativa
+* impactos previstos
+* benefícios esperados
+* impactos e alternativas em caso de não implementação
+* plano de avaliação da mudança
+
+## Ferramentas
+
+* documentação técnica
+* boas práticas de gestão de projetos
+* metodologia PMI
+
+##
+
+## Contato
+
+* Portfólio: https://gilvanpoliveira.github.io
+* Email: [gilvanoliveira06@gmail.com](mailto:gilvanoliveira06@gmail.com)
+
+##
+
+[← Voltar](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo05)
 
