@@ -1,24 +1,59 @@
-# Mundo 05 - Nível 02 - Microatividades
+# Microatividades — Métodos Ágeis
 
-## Microatividade 1: Descrever Histórias de Usuário do Backlog de Produto
+Conjunto de exercícios práticos focados na aplicação de conceitos de **metodologias ágeis** no desenvolvimento de produtos.
 
-Nesta atividade, você aprenderá a descrever Histórias de Usuário para a criação de um novo produto. O foco será na elaboração de Histórias de Usuário para o Banco SCRM, que deseja incluir um novo produto: um serviço de câmbio para turistas estrangeiros. As histórias serão organizadas em um backlog de produto e deverão considerar os principais requisitos para o funcionamento da aplicação.
+##
 
-## Microatividade 2: Descrever a estimativa de esforço utilizando o Planning Poker
+## Sobre
 
-Nesta atividade, você aprenderá a utilizar o método Planning Poker para estimar o esforço necessário na implementação das Histórias de Usuário. O objetivo será criar uma planilha com um backlog de produto, incluindo colunas para História de Usuário (com estrutura "Eu, como", "desejo", "para que eu possa") e uma escala de pontos para avaliar a complexidade de cada história.
+Estas atividades simulam o processo completo de construção e organização de um produto digital utilizando práticas ágeis.
 
-## Microatividade 3: Confeccionar uma Sprint Planning
+O cenário envolve o desenvolvimento de uma solução para o Banco SCRM, com foco na criação de um serviço de câmbio para turistas estrangeiros.
 
-Nesta atividade, você aprenderá a estruturar um planejamento de Sprint para a implementação das Histórias de Usuário descritas anteriormente. O objetivo será organizar as Histórias de Usuário em diferentes Sprints, considerando um ciclo de desenvolvimento de 14 dias por Sprint. Você definirá um número de Sprint para cada história, garantindo um equilíbrio entre complexidade e tempo de implementação.
+Ao longo das microatividades, são abordadas etapas essenciais do fluxo ágil, desde a definição de requisitos até o planejamento e validação do desenvolvimento.
 
-## Microatividade 4: Descrever os Critérios de Aceitação para os itens de uma Sprint
+##
 
-Nesta atividade, você aprenderá a definir Critérios de Aceitação para as Histórias de Usuário do backlog de produto. Cada História de Usuário deverá conter no mínimo três Critérios de Aceitação, garantindo que os requisitos estejam bem definidos e atendam às expectativas do cliente e do time de desenvolvimento.
+## Objetivo
 
-<br>
-  
-[<- Retornar ao Projeto](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo05/metodosAgeis)
+Aplicar conceitos fundamentais de metodologias ágeis, incluindo:
+
+* criação de histórias de usuário
+* estimativa de esforço
+* planejamento de sprints
+* definição de critérios de aceitação
+
+##
+
+## Conceitos Aplicados
+
+* Scrum
+* Product Backlog
+* User Stories
+* Planning Poker
+* Sprint Planning
+* critérios de aceitação
+
+##
+
+## Ferramentas e Conceitos
+
+* backlog de produto
+* estimativa por pontos
+* organização de sprints
+* planejamento iterativo
+* definição de requisitos funcionais
+
+##
+
+## Contato
+
+* Portfólio: https://gilvanpoliveira.github.io
+* Email: [gilvanoliveira06@gmail.com](mailto:gilvanoliveira06@gmail.com)
+
+##
+
+[← Voltar](https://github.com/GilvanPOliveira/FullStack/tree/main/Mundo05/metodosAgeis)
 
 
 
